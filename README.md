@@ -9,7 +9,7 @@
 
 \def\titulo{Título de la tesis}
 \def\facultad{Facultad de Ciencias Empresariales}
-\def\escuela{Escuala de Contabilidad}
+\def\escuela{Escuela de Contabilidad}
 \def\autor{Nombres Apellidos}
 \def\grado{Contador Público}
 \def\fecha{Chiclayo, 2022}

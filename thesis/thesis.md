@@ -2,47 +2,60 @@
 \pagestyle{empty}
 \centering
 
+<!-- PORTADA -->
+
 **UNIVERSIDAD CATÓLICA SANTO TORIBIO DE MOGROVEJO**
 
 **\uppercase{\facultad}**
 
 **\uppercase{\escuela}**
 
-\
-![](format/escudo.png){height=100mm}
+\hfill
+
+![](./format/crest.png){height=10cm}
+
+\hfill
 
 **\uppercase{\titulo}**
 
-\
+\hfill
+
 **TESIS PARA OPTAR EL TÍTULO DE**
 
 **\uppercase{\grado}**
 
-\
+\hfill
+
 **AUTOR**
 
 \textbf{\autor}
 
-\
+\hfill
+
 **ASESOR**
 
 \textbf{\asesorNombre}
 
 \asesorOrcid
 
-\
+\hfill
+
 \textbf{\fecha}
 
 \newpage
 
+<!-- FIRMAS -->
+
 **\uppercase{\titulo}**
 
-\
+\hfill
+
 PRESENTADA POR
 
 **\uppercase{\autor}**
 
-\
+\hfill
+
 A la \facultad de la
 
 Universidad Católica Santo Torivio de Mogrovejo
@@ -51,10 +64,11 @@ para optar el título de
 
 **\uppercase{\grado}**
 
-\
+\hfill
+
 APROBADA POR
 
-\
+\hfill
 
 \begin{tabular}{ccc}
 \hspace{3cm} & \hspace{3cm} & \hspace{3cm} \\
@@ -67,20 +81,28 @@ SECRETARIO & & VOCAL
 
 \newpage
 
+<!-- ÍNDICE -->
+
 \renewcommand\contentsname{\large Índice}
 \tableofcontents
 
 \newpage
+
+<!-- LISTA DE TABLAS -->
 
 \renewcommand\listtablename{\large Lista de tablas}
 \listoftables
 
 \newpage
 
+<!-- LISTA DE FIGURAS -->
+
 \renewcommand\listfigurename{\large Lista de figuras}
 \listoffigures
 
 \newpage
+
+<!-- LISTA DE ANEXOS -->
 
 \listofannexes
 
