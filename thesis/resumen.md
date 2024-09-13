@@ -1,15 +1,15 @@
 ## Resumen
 
-Su resumen.
+Resumen
 
-**Palabras clave**: _thesis, contabilidad, template_
+**Palabras clave**: _palabras, clave_
 
 \newpage
 
 ## Abstract
 
-Your abstract.
+Abstract
 
-**Keywords**: _thesis, accounting, template_
+**Keywords**: _key, words_
 
 \newpage

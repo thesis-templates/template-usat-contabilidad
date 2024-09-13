@@ -20,7 +20,7 @@ header-includes: |
   \geometry{margin=1in}
 
   \newcommand{\listannexesname}{\large Lista de anexos}
-  \newlistof{annexes}{loa}{\listannexesname}
+  \newlistof{annexes}{loa}{\small\listannexesname}
 
   \addtocontents{toc}{\protect\thispagestyle{empty}}
   \addtocontents{lof}{\protect\thispagestyle{empty}}

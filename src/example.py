@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-pathfile = 'data/tsv/tabla.tsv'
+pathfile = 'data/tsv/table.tsv'
 
 df = pd.read_csv(pathfile, sep='\t')
 
