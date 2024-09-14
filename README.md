@@ -2,6 +2,15 @@
 
 > Apoyame en [Patreon](https://patreon.com/moixllik) para más Thesis Templates.
 
+```bash
+# Instalar requerimientos
+make pkgs
+# Genera doc.pdf
+make doc
+# Guarda los cambios
+make save
+```
+
 ## Información básica
 
 ```yml
