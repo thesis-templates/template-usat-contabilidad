@@ -1,4 +1,4 @@
-# USAT - Tesis de Contabilidad, 2022
+# Thesis Template
 
 > Apoyame en [Patreon](https://patreon.com/moixllik) para más Thesis Templates.
 
