@@ -1,9 +1,9 @@
 {
-  "annus": 2022,
-  "patria": "per",
-  "lingua": "spa",
-  "universitas": "www.usat.edu.pe",
-  "facultas": "www.usat.edu.pe/facultad-de-ciencias-empresariales/contabilidad/",
-  "repositorium": "tesis.usat.edu.pe",
-  "descriptio": "Escuela de Contabilidad / Universidad Católica Santo Toribio de Mogrovejo / Perú"
+  "year": 2024,
+  "description": "Escuela de Contabilidad / Universidad Católica Santo Toribio de Mogrovejo / Perú",
+  "iso_country": "per",
+  "iso_language": "spa",
+  "url_university": "http://www.usat.edu.pe/",
+  "url_school": "http://www.usat.edu.pe/facultad-de-ciencias-empresariales/contabilidad/",
+  "url_repository": "https://tesis.usat.edu.pe/"
 }
