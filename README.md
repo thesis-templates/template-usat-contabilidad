@@ -2,8 +2,6 @@
 
 Escuela de Contabilidad / Universidad Católica Santo Toribio de Mogrovejo / Perú
 
-> Apoyame en [Patreon](https://patreon.com/moixllik) para más Thesis Templates.
-
 ```bash
 # Instalar requerimientos
 make pkgs
